@@ -1,0 +1,74 @@
+{
+  "@@locale": "en",
+
+  "welcomeTo": "Welcome To",
+  "getStarted": "Get Started",
+  "selectLanguage": "Select your language",
+  "next": "Next",
+
+  "pleaseFillDetails": "Please fill in your details",
+  "fillDetailsSubtitle": "Fill in your details",
+
+  "name": "Name",
+  "phoneNumber": "Phone Number",
+  "alternatePhone": "Alternate Phone Number",
+
+  "continueText": "Continue",
+  "continueInQuestion": "Would you like to continue in:",
+
+  "textMode": "Text",
+  "voiceMode": "Voice",
+
+  "aboutDeveloper": "About The Developer",
+
+  "chooseProblem": "Which problem would you like help with?",
+  "chooseProblemSubtitle": "Select one problem to continue",
+
+  "problemWalkability": "Walkability and blocked footpaths",
+  "problemWaste": "Waste management and disposal",
+  "problemTraffic": "Traffic congestion and commuting",
+  "problemAir": "Air pollution and exposure",
+  "problemHealthcare": "Healthcare access and cost transparency",
+  "problemWater": "Water scarcity and quality",
+  "problemEmergency": "Emergency help and personal safety",
+
+  "selectProblemError": "Please select a problem before continuing.",
+  "saved": "Your selection has been saved.",
+
+  "nameRequired": "Please enter your name",
+  "phoneRequired": "Please enter phone number",
+  "phoneLength": "Phone number must be 10 digits",
+
+  "alternateRequired": "Please enter alternate phone number",
+  "alternateLength": "Alternate number must be 10 digits",
+  "alternateSame": "Alternate number must be different from your phone number",
+  "alternateHelper": "of your friend or family member",
+
+  "phoneHint": "10 digit number",
+  "saveFailed": "Failed to save. Please try again.",
+
+  "developerNameLabel": "Developer Name",
+  "developerName": "Sparsh Singhal",
+
+  "dateOfBirthLabel": "Date of Birth",
+  "dateOfBirth": "17 April 2007",
+
+  "placeOfBirthLabel": "Place of Birth",
+  "placeOfBirth": "Ghaziabad, Uttar Pradesh",
+
+  "schoolingLabel": "Schooling",
+  "schooling": "K.D.B. Public School",
+
+  "collegeLabel": "College",
+  "college": "Delhi Technological University",
+
+  "branchLabel": "Branch",
+  "branch": "Information Technology",
+
+  "developerThankYou": "Thank you for using Super App.",
+
+  "voiceWelcomeMessage": "Welcome to voice mode. You can now use the app with voice.",
+  "voiceTitle": "Voice mode is active",
+  "voiceDescription": "The app will now use voice in your selected language.",
+  "speakAgain": "Speak Again"
+}
